@@ -1,0 +1,102 @@
+.elabez{
+  background-image: url("https://lh3.ggpht.com/8TEJ702f-E1PE_DK7qb3chLL-KdUnEV7jTrPxuATMM6yYFdEli9a--84dTan=w870-h547-pp-rw-v1");
+  background-color: rgba(0,0,0,.3);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+bottom: 0;
+height: 100%;
+left: 0;
+position: absolute;
+right: 0;
+top: 0;
+
+
+}
+.lktiba{
+  -moz-box-align: center;
+  box-align: center;
+  align-items: center;
+  box-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 700px;
+  text-align: center;
+  width: -moz-calc(100% - 48px);
+  width: calc(100% - 48px);
+  color: #fff;
+  letter-spacing: .01428571em;
+font-family: Roboto,Arial,sans-serif;
+font-size: .875rem;
+font-weight: 400;
+line-height: 1.25rem;
+font-family: "Google Sans Text","Noto Naskh Arabic UI",Arial,sans-serif;
+font: 500 20px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: normal;
+  font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  text-align: center;
+}
+.VDJ8te {
+  margin-bottom: 40px;
+  padding: 0;
+}
+.VDJ8te {
+  margin: 0 auto 24px;
+    margin-top: 0px;
+    margin-bottom: 24px;
+  max-width: 760px;
+  padding: 0 24px;
+  text-align: var(--text-align,center);
+  width: 100%;
+  z-index: 1;
+  text-align: var(--text-align,center);
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  letter-spacing: .01428571em;
+  font-family: Roboto,Arial,sans-serif;
+  font-size: .875rem;
+  font-weight: 400;
+  line-height: 1.25rem;
+ 
+}
+.erzEIf {
+  font-family: "Google Sans",Roboto,Arial,sans-serif;
+  font-size: 2.25rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 2.75rem;
+  font-family: "Google Sans","Noto Naskh Arabic UI",Arial,sans-serif;
+  text-align: center;
+  color: var(--title-color,#202124);
+}
+.y4FzZb{
+  text-align: center;
+  font-family: "Google Sans Text","Noto Naskh Arabic UI",Arial,sans-serif;
+color: var(--subtitle-color,#5f6368);
+}
+.melek{
+  display: flex;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-style: outset;
+}
+.parr{
+  text-align: start;
+  margin-left: 5%;
+  margin-top: 12%;
+}
